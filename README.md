@@ -17,7 +17,7 @@ This repository contains a list of books and other resources about C programming
      * The K&R style works for old Unix mainframe command-line programs that exit after a simple task and leave the cleanup to the OS; where input is only from trusted experts; and most functions are only called internally to the program.
      * Some practices are out of date, so errata and googling is needed while going through the book.
      * Assumes familiarity not only with programming concepts but some C language specifics which are not so simple for beginners.
- * [C Programming: Modern approach, 2nd Edition](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
+ * [C Programming: Modern approach, 2nd Edition](https://pdfcoffee.com/qdownload/c-programming-a-modern-approach-2nd-edition-pdf-free.html)
    * Pros:
      * The book really challenges you to think like a programmer by constantly asking questions that force you to solve problems, rather than telling you how to solve the problem and only asking you to write the syntax. This way helps beginner programmers to get into programming.
      * The author breaks things down into small pieces and uses examples to explain everything in a very clear way.
